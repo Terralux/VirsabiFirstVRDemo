@@ -1,0 +1,41 @@
+# =============== #
+# Unity generated #
+# =============== #
+"InsertProjectFolderName"/[Tt]emp/
+"InsertProjectFolderName"/[Oo]bj/
+"InsertProjectFolderName"/[Bb]uilds/
+"InsertProjectFolderName"/[Ll]ibrary/
+"InsertProjectFolderName"/[Ll]ibrary_ANDROID/
+"InsertProjectFolderName"/[Ll]ibrary_PC/
+"InsertProjectFolderName"/[Ll]ibrary_IOS/
+"InsertProjectFolderName"/sysinfo.txt
+"InsertProjectFolderName"/UnityVS/
+"InsertProjectFolderName"/UnityVS.meta
+"InsertProjectFolderName"/LightingData*
+"InsertProjectFolderName"/ReflectionProbe*
+"InsertProjectFolderName"/Assets/Scenes/Personal Scenes*
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+"InsertProjectFolderName"/[Ee]xported[Oo]bj/
+"InsertProjectFolderName"/*.userprefs
+"InsertProjectFolderName"/*.csproj
+"InsertProjectFolderName"/*.pidb
+"InsertProjectFolderName"/*.suo
+"InsertProjectFolderName"/*.sln*
+"InsertProjectFolderName"/*.user
+"InsertProjectFolderName"/*.unityproj
+"InsertProjectFolderName"/*.booproj
+
+# ============
+# OS generated
+# ============
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Thumbs.db.meta
