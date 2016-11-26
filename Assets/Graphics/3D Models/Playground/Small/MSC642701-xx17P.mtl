@@ -1,0 +1,369 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 24.11.2016 09:21:13
+
+newmtl 51
+	Ns 20.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.1020 0.1020 0.1020
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka J:\CAD\CAD_Setup\_Render\Textures\KOMPAN-Maps\Product Maps\KMP-STEEL3.JPG
+	map_Kd J:\CAD\CAD_Setup\_Render\Textures\KOMPAN-Maps\Product Maps\KMP-STEEL3.JPG
+	map_refl J:\CAD\CAD_Setup\_Render\Textures\KOMPAN-Maps\Product Maps\KMP-KSC-SKY5.JPG
+
+newmtl 07113
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2196 0.2039 0.2039
+	Kd 0.3922 0.3804 0.3804
+	Ks 0.2520 0.2520 0.2520
+	Ke 0.0000 0.0000 0.0000
+
+newmtl 11
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5020 0.0000 0.0000
+	Kd 0.9569 0.0000 0.0000
+	Ks 0.2520 0.2520 0.2520
+	Ke 0.0000 0.0000 0.0000
+
+newmtl 128
+	Ns 20.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.1020 0.1020 0.1020
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka J:\CAD\CAD_Setup\_Render\Textures\KOMPAN-Maps\Product Maps\KMP-STEEL3.JPG
+	map_Kd J:\CAD\CAD_Setup\_Render\Textures\KOMPAN-Maps\Product Maps\KMP-STEEL3.JPG
+	map_refl J:\CAD\CAD_Setup\_Render\Textures\KOMPAN-Maps\Product Maps\KMP-KSC-SKY5.JPG
+
+newmtl Rope_07
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.1791 0.0654 0.0654
+	Kd 0.3647 0.0118 0.0078
+	Ks 0.0450 0.0450 0.0450
+	Ke 0.0000 0.0000 0.0000
+	map_Ka J:\CAD\CAD_Setup\_Render\Textures\KOMPAN-Maps\Product Maps\KMP-Rope-07.jpg
+	map_Kd J:\CAD\CAD_Setup\_Render\Textures\KOMPAN-Maps\Product Maps\KMP-Rope-07.jpg
+	map_bump J:\CAD\CAD_Setup\_Render\Textures\KOMPAN-Maps\Product Maps\KMP-WhiteWEB.jpg
+	bump J:\CAD\CAD_Setup\_Render\Textures\KOMPAN-Maps\Product Maps\KMP-WhiteWEB.jpg
+
+newmtl 0316
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.1000 0.1000 0.1000
+	Kd 0.1216 0.0824 0.5020
+	Ks 0.2520 0.2520 0.2520
+	Ke 0.0000 0.0000 0.0000
+
+newmtl 0305
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0588
+	Kd 0.0667 0.0667 0.1647
+	Ks 0.2520 0.2520 0.2520
+	Ke 0.0000 0.0000 0.0000
+
+newmtl 0315
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6824 0.6353 0.5059
+	Kd 0.7412 0.7020 0.6000
+	Ks 0.2520 0.2520 0.2520
+	Ke 0.0000 0.0000 0.0000
+
+newmtl 140
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6549 0.6980 0.7765
+	Kd 0.7608 0.8118 0.9020
+	Ks 0.2800 0.2800 0.2800
+	Ke 0.0000 0.0000 0.0000
+
+newmtl 06
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0588
+	Kd 0.0667 0.0667 0.1647
+	Ks 0.2520 0.2520 0.2520
+	Ke 0.0000 0.0000 0.0000
+
+newmtl 06_MATT_BLACK
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0588
+	Kd 0.2157 0.2157 0.2510
+	Ks 0.0900 0.0900 0.0900
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Sign_A641010
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka J:\CAD\CAD_Setup\_Render\Textures\KOMPAN-Maps\Product Maps\KMP-A641010.png
+	map_Kd J:\CAD\CAD_Setup\_Render\Textures\KOMPAN-Maps\Product Maps\KMP-A641010.png
+
+newmtl 0309
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0392 0.3451 0.0941
+	Kd 0.0431 0.3922 0.1098
+	Ks 0.2520 0.2520 0.2520
+	Ke 0.0000 0.0000 0.0000
+
+newmtl 0326
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2784 0.1608 0.1176
+	Kd 0.3804 0.2196 0.1608
+	Ks 0.2520 0.2520 0.2520
+	Ke 0.0000 0.0000 0.0000
+
+newmtl 0323
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.3843 0.4000 0.3882
+	Kd 0.4196 0.4353 0.4235
+	Ks 0.2520 0.2520 0.2520
+	Ke 0.0000 0.0000 0.0000
+
+newmtl 0310
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.3922 0.2784 0.0000
+	Kd 1.0000 0.7608 0.0431
+	Ks 0.2520 0.2520 0.2520
+	Ke 0.0000 0.0000 0.0000
+
+newmtl 0301
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5020 0.0000 0.0000
+	Kd 0.8471 0.0000 0.0000
+	Ks 0.2520 0.2520 0.2520
+	Ke 0.0000 0.0000 0.0000
+
+newmtl 0313
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6235 0.6157 0.5412
+	Kd 0.9412 0.9294 0.8157
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl 0311
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0902 0.3098 0.3373
+	Kd 0.4118 0.4706 1.0000
+	Ks 0.2520 0.2520 0.2520
+	Ke 0.0000 0.0000 0.0000
+
+newmtl 112
+	Ns 80.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.1000 0.1000 0.1000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka J:\CAD\CAD_Setup\_Render\Textures\KOMPAN-Maps\Product Maps\KMP-STEEL3.JPG
+	map_Kd J:\CAD\CAD_Setup\_Render\Textures\KOMPAN-Maps\Product Maps\KMP-STEEL3.JPG
+	map_refl J:\CAD\CAD_Setup\_Render\Textures\KOMPAN-Maps\Product Maps\KMP-KSC-SKY5.JPG
+
+newmtl 52
+	Ns 20.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.4392 0.4392 0.4392
+	Ks 1.3500 1.3500 1.3500
+	Ke 0.0000 0.0000 0.0000
+	map_refl J:\CAD\CAD_Setup\_Render\Textures\KOMPAN-Maps\Product Maps\KMP-Lakerem.jpg
+
+newmtl 0406
+	Ns 18.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2902 0.3020 0.2941
+	Kd 0.4196 0.4353 0.4235
+	Ks 0.2520 0.2520 0.2520
+	Ke 0.0000 0.0000 0.0000
+
+newmtl 12
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.3922 0.2784 0.0000
+	Kd 1.0000 0.7608 0.0431
+	Ks 0.2520 0.2520 0.2520
+	Ke 0.0000 0.0000 0.0000
+
+newmtl 0325
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5686 0.6941 0.1882
+	Kd 0.6627 0.8118 0.2196
+	Ks 0.2520 0.2520 0.2520
+	Ke 0.0000 0.0000 0.0000
+
+newmtl 110
+	Ns 44.0000
+	Ni 1.5000
+	d 0.2200
+	Tr 0.7800
+	Tf 0.2200 0.2200 0.2200 
+	illum 2
+	Ka 0.1020 0.1020 0.1020
+	Kd 0.0392 0.0392 0.0392
+	Ks 0.5029 0.5029 0.5029
+	Ke 0.0000 0.0000 0.0000
+	map_refl J:\CAD\CAD_Setup\_Render\Textures\KOMPAN-Maps\Product Maps\KMP-KSC-SKY5.JPG
+
+newmtl 07
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0902 0.3098 0.3373
+	Kd 0.4118 0.4706 1.0000
+	Ks 0.2520 0.2520 0.2520
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Sign_A641009
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka J:\CAD\CAD_Setup\_Render\Textures\KOMPAN-Maps\Product Maps\KMP-A641009.png
+	map_Kd J:\CAD\CAD_Setup\_Render\Textures\KOMPAN-Maps\Product Maps\KMP-A641009.png
+
+newmtl 18
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6039 0.6039 0.6039
+	Kd 0.9529 0.9529 0.9529
+	Ks 0.2800 0.2800 0.2800
+	Ke 0.0000 0.0000 0.0000
+
+newmtl 0318
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.3843 0.4000 0.3882
+	Kd 0.4196 0.4353 0.4235
+	Ks 0.2520 0.2520 0.2520
+	Ke 0.0000 0.0000 0.0000
