@@ -408,13 +408,13 @@ public class GvrViewer : MonoBehaviour {
     if (preRender == null) {
       var go = new GameObject("PreRender", typeof(GvrPreRender));
       go.SendMessage("Reset");
-      go.transform.parent = transform;
+      //go.transform.parent = transform;
     }
     var postRender = UnityEngine.Object.FindObjectOfType<GvrPostRender>();
     if (postRender == null) {
       var go = new GameObject("PostRender", typeof(GvrPostRender));
       go.SendMessage("Reset");
-      go.transform.parent = transform;
+      //go.transform.parent = transform;
     }
   }
 #endif  // !UNITY_HAS_GOOGLEVR || UNITY_EDITOR
