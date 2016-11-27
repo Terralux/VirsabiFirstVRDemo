@@ -1,0 +1,217 @@
+fileFormatVersion: 2
+guid: 1b7aaa0445959dc4c83727dd4a8efb06
+timeCreated: 1480190870
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Layer_0305
+    100002: Layer_0310
+    100004: Layer_0311
+    100006: Layer_0323
+    100008: Layer_0325
+    100010: Layer_0406
+    100012: Layer_06
+    100014: Layer_06_MATT_BLACK
+    100016: Layer_07
+    100018: Layer_07113
+    100020: Layer_11
+    100022: Layer_110
+    100024: Layer_112
+    100026: Layer_113
+    100028: Layer_113_MeshPart0
+    100030: Layer_113_MeshPart1
+    100032: Layer_113_MeshPart2
+    100034: Layer_12
+    100036: Layer_128
+    100038: Layer_14
+    100040: Layer_18
+    100042: Layer_188
+    100044: Layer_199
+    100046: Layer_213
+    100048: Layer_51
+    100050: Layer_52
+    100052: Layer_52_MeshPart0
+    100054: Layer_52_MeshPart1
+    100056: Layer_Rope_07
+    100058: Layer_Sign_Product_Marking
+    100060: //RootNode
+    400000: Layer_0305
+    400002: Layer_0310
+    400004: Layer_0311
+    400006: Layer_0323
+    400008: Layer_0325
+    400010: Layer_0406
+    400012: Layer_06
+    400014: Layer_06_MATT_BLACK
+    400016: Layer_07
+    400018: Layer_07113
+    400020: Layer_11
+    400022: Layer_110
+    400024: Layer_112
+    400026: Layer_113
+    400028: Layer_113_MeshPart0
+    400030: Layer_113_MeshPart1
+    400032: Layer_113_MeshPart2
+    400034: Layer_12
+    400036: Layer_128
+    400038: Layer_14
+    400040: Layer_18
+    400042: Layer_188
+    400044: Layer_199
+    400046: Layer_213
+    400048: Layer_51
+    400050: Layer_52
+    400052: Layer_52_MeshPart0
+    400054: Layer_52_MeshPart1
+    400056: Layer_Rope_07
+    400058: Layer_Sign_Product_Marking
+    400060: //RootNode
+    2300000: Layer_0305
+    2300002: Layer_0310
+    2300004: Layer_0311
+    2300006: Layer_0323
+    2300008: Layer_0325
+    2300010: Layer_0406
+    2300012: Layer_06
+    2300014: Layer_06_MATT_BLACK
+    2300016: Layer_07
+    2300018: Layer_07113
+    2300020: Layer_11
+    2300022: Layer_110
+    2300024: Layer_112
+    2300026: Layer_113_MeshPart0
+    2300028: Layer_113_MeshPart1
+    2300030: Layer_113_MeshPart2
+    2300032: Layer_12
+    2300034: Layer_128
+    2300036: Layer_14
+    2300038: Layer_18
+    2300040: Layer_188
+    2300042: Layer_199
+    2300044: Layer_213
+    2300046: Layer_51
+    2300048: Layer_52_MeshPart0
+    2300050: Layer_52_MeshPart1
+    2300052: Layer_Rope_07
+    2300054: Layer_Sign_Product_Marking
+    3300000: Layer_0305
+    3300002: Layer_0310
+    3300004: Layer_0311
+    3300006: Layer_0323
+    3300008: Layer_0325
+    3300010: Layer_0406
+    3300012: Layer_06
+    3300014: Layer_06_MATT_BLACK
+    3300016: Layer_07
+    3300018: Layer_07113
+    3300020: Layer_11
+    3300022: Layer_110
+    3300024: Layer_112
+    3300026: Layer_113_MeshPart0
+    3300028: Layer_113_MeshPart1
+    3300030: Layer_113_MeshPart2
+    3300032: Layer_12
+    3300034: Layer_128
+    3300036: Layer_14
+    3300038: Layer_18
+    3300040: Layer_188
+    3300042: Layer_199
+    3300044: Layer_213
+    3300046: Layer_51
+    3300048: Layer_52_MeshPart0
+    3300050: Layer_52_MeshPart1
+    3300052: Layer_Rope_07
+    3300054: Layer_Sign_Product_Marking
+    4300000: Layer_0305_MeshPart0
+    4300002: Layer_0310_MeshPart0
+    4300004: Layer_0311
+    4300006: Layer_0323_MeshPart0
+    4300008: Layer_0325_MeshPart0
+    4300010: Layer_0406_MeshPart0
+    4300012: Layer_06_MeshPart0
+    4300014: Layer_06_MATT_BLACK_MeshPart0
+    4300016: Layer_07
+    4300018: Layer_07113_MeshPart0
+    4300020: Layer_11_MeshPart0
+    4300022: Layer_110
+    4300024: Layer_112_MeshPart0
+    4300026: Layer_113_MeshPart0
+    4300028: Layer_113_MeshPart1
+    4300030: Layer_113_MeshPart2
+    4300032: Layer_12_MeshPart0
+    4300034: Layer_128_MeshPart0
+    4300036: Layer_14
+    4300038: Layer_18
+    4300040: Layer_188
+    4300042: Layer_199_MeshPart0
+    4300044: Layer_213
+    4300046: Layer_51_MeshPart0
+    4300048: Layer_52_MeshPart0
+    4300050: Layer_52_MeshPart1
+    4300052: Layer_Rope_07
+    4300054: Layer_Sign_Product_Marking
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
